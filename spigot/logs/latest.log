@@ -1,0 +1,292 @@
+[16:18:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:18:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:18:05] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:18:08] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[16:18:08] [Server thread/INFO]: Loading properties
+[16:18:08] [Server thread/INFO]: This server is running CraftBukkit version 3208-Spigot-18c71bf-97f629b (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[16:18:09] [Server thread/INFO]: Debug logging is disabled
+[16:18:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:18:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:18:09] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:09] [Server thread/INFO]: Generating keypair
+[16:18:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:18:09] [Server thread/INFO]: Using epoll channel type
+[16:18:10] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.1
+[16:18:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:18:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:18:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:18:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:18:10] [Server thread/INFO]: Preparing level "oscara"
+[16:18:11] [Server thread/INFO]: -------- World Settings For [oscara] --------
+[16:18:11] [Server thread/INFO]: Mob Spawn Range: 6
+[16:18:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:18:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:18:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:18:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:18:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:18:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:18:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:18:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:18:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:18:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:18:11] [Server thread/INFO]: View Distance: 10
+[16:18:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:18:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:18:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:18:11] [Server thread/INFO]: -------- World Settings For [oscara_nether] --------
+[16:18:11] [Server thread/INFO]: Mob Spawn Range: 6
+[16:18:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:18:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:18:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:18:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:18:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:18:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:18:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:18:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:18:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:18:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:18:11] [Server thread/INFO]: View Distance: 10
+[16:18:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:18:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:18:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:18:11] [Server thread/INFO]: -------- World Settings For [oscara_the_end] --------
+[16:18:11] [Server thread/INFO]: Mob Spawn Range: 6
+[16:18:11] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:18:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Potato Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[16:18:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[16:18:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[16:18:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[16:18:11] [Server thread/INFO]: Max TNT Explosions: 100
+[16:18:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:18:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:18:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:18:11] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:18:11] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:18:11] [Server thread/INFO]: View Distance: 10
+[16:18:11] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[16:18:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:18:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:18:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:18:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:20] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[16:18:21] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[16:18:21] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[16:18:22] [Worker-Main-5/INFO]: Preparing spawn area: 31%
+[16:18:22] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[16:18:23] [Worker-Main-5/INFO]: Preparing spawn area: 68%
+[16:18:23] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[16:18:24] [Worker-Main-4/INFO]: Preparing spawn area: 71%
+[16:18:24] [Worker-Main-6/INFO]: Preparing spawn area: 74%
+[16:18:25] [Worker-Main-4/INFO]: Preparing spawn area: 77%
+[16:18:25] [Worker-Main-5/INFO]: Preparing spawn area: 82%
+[16:18:26] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[16:18:26] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[16:18:27] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[16:18:27] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[16:18:28] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[16:18:28] [Worker-Main-4/INFO]: Preparing spawn area: 88%
+[16:18:29] [Worker-Main-5/INFO]: Preparing spawn area: 90%
+[16:18:29] [Worker-Main-4/INFO]: Preparing spawn area: 93%
+[16:18:30] [Worker-Main-5/INFO]: Preparing spawn area: 95%
+[16:18:30] [Worker-Main-4/INFO]: Preparing spawn area: 98%
+[16:18:30] [Server thread/INFO]: Time elapsed: 19253 ms
+[16:18:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:18:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:31] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:33] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[16:18:33] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[16:18:33] [Worker-Main-5/INFO]: Preparing spawn area: 69%
+[16:18:34] [Worker-Main-6/INFO]: Preparing spawn area: 71%
+[16:18:35] [Worker-Main-6/INFO]: Preparing spawn area: 73%
+[16:18:35] [Worker-Main-4/INFO]: Preparing spawn area: 73%
+[16:18:35] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[16:18:36] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[16:18:36] [Worker-Main-4/INFO]: Preparing spawn area: 81%
+[16:18:37] [Worker-Main-6/INFO]: Preparing spawn area: 83%
+[16:18:38] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[16:18:38] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[16:18:38] [Worker-Main-4/INFO]: Preparing spawn area: 86%
+[16:18:39] [Worker-Main-5/INFO]: Preparing spawn area: 88%
+[16:18:39] [Worker-Main-6/INFO]: Preparing spawn area: 90%
+[16:18:40] [Worker-Main-6/INFO]: Preparing spawn area: 93%
+[16:18:40] [Worker-Main-6/INFO]: Preparing spawn area: 95%
+[16:18:41] [Worker-Main-5/INFO]: Preparing spawn area: 98%
+[16:18:41] [Server thread/INFO]: Time elapsed: 10668 ms
+[16:18:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:18:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:18:42] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:18:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:18:43] [Worker-Main-4/INFO]: Preparing spawn area: 3%
+[16:18:43] [Worker-Main-4/INFO]: Preparing spawn area: 38%
+[16:18:44] [Worker-Main-4/INFO]: Preparing spawn area: 93%
+[16:18:44] [Worker-Main-6/INFO]: Preparing spawn area: 93%
+[16:18:44] [Server thread/INFO]: Time elapsed: 3345 ms
+[16:18:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.1
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mUsing SpigotSkinRefresher[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1mDetected Minecraft [0;33;1mv1_17_R1[0;32;1m, using [0;33;1mSkinApplierBukkit[0;32;1m.[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mMineskinAPIKey is missing in config.yml! Using default value.[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value PREFIX to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_CLEAR to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_CLEAR_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_UPDATE to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_UPDATE_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_SET to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_SET_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SKIN_SET_OTHER_URL to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_RELOAD to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_STATUS to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_DROP to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_PROPS to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_APPLY_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_SR_CreateCustom to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_DEFAULTCOMMAND to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_SKINSET to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_SKINSET_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_SKINURL to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_SKINUPDATE_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SYNTAX_SKINCLEAR_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value Completions_Skin to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value Completions_SkinName to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value Completions_SkinUrl to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value PLAYER_HAS_NO_PERMISSION_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value PLAYER_HAS_NO_PERMISSION_URL to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKIN_DISABLED to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINURL_DISALLOWED to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value NOT_PREMIUM to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value INVALID_PLAYER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKIN_COOLDOWN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKIN_CHANGE_SUCCESS to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKIN_CLEAR_SUCCESS to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKIN_CLEAR_ISSUER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value MS_UPDATING_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SUCCESS_CREATE_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SUCCESS_UPDATING_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SUCCESS_UPDATING_SKIN_OTHER to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_UPDATING_SKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_UPDATING_URL to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_UPDATING_CUSTOMSKIN to messages.yml[m
+[16:18:45] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_INVALID_URLSKIN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_MS_FULL to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_MS_GENERIC to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value GENERIC_ERROR to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value WAIT_A_MINUTE to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ERROR_NO_SKIN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_OPEN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_TITLE_NEW to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_NEXT_PAGE to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_PREVIOUS_PAGE to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_REMOVE_SKIN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SKINSMENU_SELECT_SKIN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ADMIN_SET_SKIN to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value DATA_DROPPED to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value STATUS_OK to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value ALT_API_FAILED to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value MS_API_FAILED to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value NO_SKIN_DATA to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value RELOAD to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value OUTDATED to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value SR_LINE to messages.yml[m
+[16:18:46] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mSaving new config value HELP_PLAYER to messages.yml[m
+[16:18:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:18:50] [Server thread/INFO]: Done (39.731s)! For help, type "help"
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    | SkinsRestorer |[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    |---------------|[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    |  [0;34;1m[4m[21mBukkit only[0;32;1m  |[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;36;1m    Current version: [0;32;1m14.1.1[m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    This is the latest version![m
+[16:18:51] [Craft Scheduler Thread - 0/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
+[16:18:55] [User Authenticator #1/INFO]: UUID of player LukeOliBR is b298c644-d81e-395f-a054-c03465f0a34b
+[16:18:56] [Server thread/INFO]: LukeOliBR[/187.17.41.48:53904] logged in with entity id 176 at ([oscara]-72.5, 64.0, -14.5)
+[16:20:04] [Server thread/INFO]: LukeOliBR lost connection: Disconnected
+[16:20:04] [Server thread/INFO]: LukeOliBR left the game
+[16:43:08] [User Authenticator #2/INFO]: UUID of player LukeOliBR is b298c644-d81e-395f-a054-c03465f0a34b
+[16:43:08] [Server thread/INFO]: LukeOliBR[/187.17.41.48:55014] logged in with entity id 592 at ([oscara]-86.55740744119095, 70.0, -35.2377377820619)
+[16:43:15] [Server thread/INFO]: LukeOliBR issued server command: /skins
+[16:43:26] [Server thread/INFO]: LukeOliBR issued server command: /skins
+[16:43:43] [Server thread/INFO]: LukeOliBR issued server command: /skis
+[16:43:46] [Server thread/INFO]: LukeOliBR issued server command: /skins
+[16:43:50] [Server thread/INFO]: LukeOliBR issued server command: /skins
+[16:50:21] [Server thread/INFO]: LukeOliBR lost connection: Disconnected
+[16:50:21] [Server thread/INFO]: LukeOliBR left the game
+[16:50:32] [Server thread/INFO]: Stopping the server
+[16:50:32] [Server thread/INFO]: Stopping server
+[16:50:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.1
+[16:50:32] [Server thread/INFO]: Saving players
+[16:50:32] [Server thread/INFO]: Saving worlds
+[16:50:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[oscara]'/minecraft:overworld
+[16:50:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[oscara_nether]'/minecraft:the_nether
+[16:50:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[oscara_the_end]'/minecraft:the_end
+[16:50:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (oscara): All chunks are saved
+[16:50:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:50:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:50:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
