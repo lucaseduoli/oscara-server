@@ -3,6 +3,6 @@
 git add .
 git commit -m "backup"
 git push
-screen
+screen -m
 cd spigot
 ./start.sh
